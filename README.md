@@ -1,4 +1,4 @@
-# Buddhist-Running 🏃♂️
+# ZenRun-Auto 🏃♂️
 
 [![GitHub Release](https://img.shields.io/github/v/release/ZluxYao/Buddhist-Running?color=blue&label=Release)](https://github.com/ZluxYao/Buddhist-Running/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/ZluxYao/Buddhist-Running?style=social)](https://github.com/ZluxYao/Buddhist-Running)
