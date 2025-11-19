@@ -14,7 +14,8 @@
 ## 🚀 最新版本
 推荐使用最新发布版本以确保功能完整：
 - 下载地址：[Releases Page](https://github.com/ZluxYao/Buddhist-Running/releases)
-- 下载地址2：[123网盘](https://123865.com/s/tJAlVv-oxWBH?提取码:zlux)
+- 下载地址2：[123网盘]([https://123865.com/s/tJAlVv-oxWBH?提取码:zlux](https://www.123865.com/s/tJAlVv-4dRBH?pwd=zlux#
+提取码：zlux))
 - 版本更新日志：[CHANGELOG.md](https://github.com/ZluxYao/Buddhist-Running/blob/main/CHANGELOG.md)
 
 ---
