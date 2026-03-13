@@ -1,7 +1,7 @@
 # ZenRun-Auto 🏃♂️
 [![GitHub Release](https://img.shields.io/github/v/release/ZluxYao/Buddhist-Running?color=blue&label=Release)](https://github.com/ZluxYao/Buddhist-Running/releases)
 [![GitHub Stars](https://img.shields.io/github/stars/ZluxYao/Buddhist-Running?style=social)](https://github.com/ZluxYao/Buddhist-Running)
-[![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red.svg)](#)
+[![License](https://img.shields.io/badge/License-Personal%20Use%20Only-red.svg)](https://github.com/ZluxYao/Buddhist-Running/blob/main/LICENSE)
 
 > 佛系乐跑自动化解决方案 | 基于 MuMu 模拟器的运动脚本配置工具  
 > 适配Take Two  
